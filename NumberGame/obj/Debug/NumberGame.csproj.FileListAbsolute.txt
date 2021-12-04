@@ -1,0 +1,15 @@
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\bin\Debug\Guna.UI.dll
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.Main.resources
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.InitGame.resources
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.cache
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CopyComplete
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.pdb
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.ChoosePlayer.resources
+C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.GamePlay.resources

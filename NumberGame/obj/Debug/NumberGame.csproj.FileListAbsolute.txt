@@ -13,3 +13,18 @@ C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.
 C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.pdb
 C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.ChoosePlayer.resources
 C:\Users\Dunay Gudratli\source\repos\NumberGame\NumberGame\obj\Debug\NumberGame.GamePlay.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\bin\Debug\Guna.UI.dll
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.csprojAssemblyReference.cache
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.ChoosePlayer.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.GamePlay.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.Main.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.InitGame.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.Properties.Resources.resources
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.GenerateResource.cache
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CoreCompileInputs.cache
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.csproj.CopyComplete
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+G:\MyFiles\Programming\CSharpProjects\NumberGame\NumberGame\obj\Debug\NumberGame.pdb

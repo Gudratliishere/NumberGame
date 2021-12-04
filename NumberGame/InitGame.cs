@@ -19,8 +19,9 @@ namespace NumberGame
 
         private void gbtn_continue_Click(object sender, EventArgs e)
         {
-            int maxScore = Convert.ToInt32(gtb_maxScore.Text);
-            if (maxScore < 1)
+            int maxScore;
+            bool result = int.TryParse(gtb_maxScore.Text, out maxScore);
+            if (!result || maxScore < 1)
                 MessageBox.Show("Please write score greater than 0!");
             else
             {
